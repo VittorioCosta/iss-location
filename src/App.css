@@ -1,0 +1,14 @@
+@import url(../node_modules/bulma/css/bulma.min.css);
+
+body {
+    background-color: #2e2e2e;
+    
+}
+
+.leaflet-container {
+    height: 600px;
+}
+
+.title, .subtitle {
+    color: #f4f4f4;
+}

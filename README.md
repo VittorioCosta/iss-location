@@ -1,6 +1,6 @@
 ## Location of the International Space Station in real time
 
-Download it than
+Download it then
 
 # npm add
 # npm start

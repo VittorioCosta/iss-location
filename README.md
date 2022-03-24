@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-Location of the International Space Station in real time
+## Location of the International Space Station in real time
 
 Download it than
 
